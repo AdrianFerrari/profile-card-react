@@ -5,8 +5,7 @@ function Interests () {
         <div className="interests">
             <h2>Interests</h2>
             <p>Food expert. Music scholar. Reader. Internet fanatic. 
-                Bacon buff. Entrepreneur. Gamer. Pop culture ninja. 
-                Coffee fanatic.</p>
+                Bacon buff. Entrepreneur. Gamer. Coffee fanatic.</p>
         </div>
     );
 }

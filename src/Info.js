@@ -1,4 +1,4 @@
-import profileImage from "./images/profile-img.png";
+import profileImage from "./images/profile-img.jpeg";
 import emailIcon from "./icons/Email.svg";
 import linkedInIcon from "./icons/LinkedIn.svg";
 import "./Info.css";
@@ -9,7 +9,7 @@ function Info() {
             <img className="profile-pic" src={profileImage} alt="Profile"/>
             <h1>Adrian Ferrari</h1>
             <h3>Frontend Developer</h3>
-            <p>adrianferrari.website</p>
+            <p>adrianferrari.fakewebsite</p>
             <div className="info-buttons">
                 <a className="email-btn" href="#">
                     <img src={emailIcon} alt="email icon"/>
