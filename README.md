@@ -14,4 +14,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screenshot
 
-![ScreenShot](Screenshot.png)
+![ScreenShot](Screenshot.jpeg)
